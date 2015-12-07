@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/test-pawnshop":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/test-pawnshop","hostpath":"/home/greywolf/www/Code/test-pawnshop","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/greywolf/www/Code/test-pawnshop","disabled":false}}}
